@@ -64,6 +64,10 @@ h2 {
   font-size: 1.25rem;
 }
 
+.card p:last-child {
+  margin-bottom: 0;
+}
+
 strong {
   color: hsl(160deg, 100%, 30%);
 }
